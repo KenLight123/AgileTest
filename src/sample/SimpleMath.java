@@ -12,5 +12,5 @@ public class SimpleMath {
   public static boolean equal(int a, int b) {
     return a == b;
   }
-  
+  //wada
 }
